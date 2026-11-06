@@ -1,1 +1,1 @@
-Python Programs for week 7
+Today is Friday
